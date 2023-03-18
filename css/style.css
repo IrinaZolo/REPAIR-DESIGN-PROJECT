@@ -2137,7 +2137,7 @@ strong {
 
 
     .request-contacts {
-        margin-top: 5px;
+        margin-top: 8px;
         display: flex;
         flex-direction: column;
         width: 330px;
@@ -2153,13 +2153,6 @@ strong {
 
     .input-contacts, .input-contacts-question{
         border-bottom: 1px solid rgba(255, 255, 255, 1);
-    }
-
-    .request-contacts {
-        margin-top: 8px;
-        display: flex;
-        width: 517px;
-        justify-content: space-between;
     }
     
     .input-contacts {
